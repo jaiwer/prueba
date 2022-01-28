@@ -1,0 +1,19 @@
+{
+    "name": "jaiwer/infodec",
+    "description": "test for infodec",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jaiwer\\Infodec\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jaiwer",
+            "email": "jaiwer.ramirez@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
